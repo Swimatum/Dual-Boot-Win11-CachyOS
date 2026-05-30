@@ -21,7 +21,7 @@ Steps:
   **list disk**<br/>
   **select disk x** (where x is the number of the harddrive, eg: 'select disk 0')<br/>
   **convert gpt**<br/>
-  **create partition efi size=2048**<br/>
+  **create partition efi size=4096**<br/>
   **format quick fs=fat32**<br/>
   **exit**<br/>
 
